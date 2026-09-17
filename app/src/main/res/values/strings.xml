@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Women Safety App</string>
+    <string name="app_subtitle">Mobile Application Development Project</string>
+    <string name="sos">SOS</string>
+    <string name="sos_desc">Tap in emergency to send SMS with location &amp; sound alarm</string>
+    <string name="helplines_title">Emergency Helplines</string>
+    <string name="police">Police\n112</string>
+    <string name="ambulance">Ambulance\n102</string>
+    <string name="women_helpline">Women\nHelpline\n1091</string>
+    <string name="add_contact">Manage Emergency Contact</string>
+    <string name="contact_name_hint">Contact Name (e.g. Mom/Dad)</string>
+    <string name="contact_phone_hint">10-Digit Mobile Number</string>
+    <string name="save">Save Contact</string>
+    <string name="clear_contacts">Clear Contact</string>
+    <string name="no_contact">No emergency contact set! Please tap below to add one.</string>
+    <string name="contact_saved">Contacts saved successfully!</string>
+    <string name="call_permission_denied">Call permission denied</string>
+    <string name="sms_permission_denied">SMS permission denied</string>
+    <string name="location_permission_denied">Location permission is required to send your coordinates</string>
+    <string name="start_siren">Sound Loud Siren</string>
+    <string name="stop_siren">Stop Siren</string>
+    <string name="emergency_sos_title">Emergency SOS Triggered</string>
+    <string name="emergency_sos_dialog_msg">Loud alarm is sounding!\nEmergency SMS has been dispatched with your current location.\n\nDo you want to dial your emergency contact now?</string>
+    <string name="about_text">MAD Lab Assignment 1 • Android Women Safety App\nDeveloped using Android Studio &amp; Kotlin</string>
+</resources>
