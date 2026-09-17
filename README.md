@@ -3,9 +3,7 @@
 An Android application developed using **Kotlin** and **Android Studio** for Mobile Application Development (MAD) Assignment 1. The app serves as a rapid emergency utility configured to sound loud safety alarms, retrieve real-time GPS locations, send automated SOS text messages, and provide quick dial access to official national helpline services.
 
 ---
-## 👤 Developer Details
-- **Name**: Dhruvil Gandhi
-- **Enrollment Number**: 25012012005
+
 ## 📱 Features
 
 1. **One-Tap Emergency SOS Trigger**: 
@@ -67,6 +65,8 @@ The app securely requests user confirmation for the following permissions during
 ```
 
 ---
-
+## 👤 Developer Details
+- **Name**: Dhruvil Gandhi
+- **Enrollment Number**: 25012012005
 
 
